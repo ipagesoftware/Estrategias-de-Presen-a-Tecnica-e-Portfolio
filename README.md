@@ -1,5 +1,4 @@
-# Estrategias-de-Presen-a-Tecnica-e-Portfolio
-Estratégias de Presença Técnica e Portfólio
+# Estratégias de Presença Técnica e Portfólio
 
 > **Guia Prático para Desenvolvedores:** Como integrar GitHub, Medium, LinkedIn e site próprio para construir um portfólio técnico de alto impacto.
 
